@@ -27,6 +27,20 @@
       "status": "Pending",
       "createdOn": "2026-07-17T00:00:00Z",
       "lastUpdatedOn": "2026-07-17T00:00:00Z"
+    },
+    {
+      "leaveId": "LV-20260717-003",
+      "employeeName": "Manish Rastogi",
+      "employeeId": "",
+      "email": "",
+      "fromDate": "2026-08-21",
+      "toDate": "2026-08-21",
+      "numberOfDays": 1,
+      "leaveType": "",
+      "reason": "",
+      "status": "Pending",
+      "createdOn": "2026-07-17T00:00:00Z",
+      "lastUpdatedOn": "2026-07-17T00:00:00Z"
     }
   ]
 }
