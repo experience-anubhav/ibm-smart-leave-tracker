@@ -41,6 +41,20 @@
       "status": "Pending",
       "createdOn": "2026-07-17T00:00:00Z",
       "lastUpdatedOn": "2026-07-17T00:00:00Z"
+    },
+    {
+      "leaveId": "LV-20260717-004",
+      "employeeName": "Hardik Patel",
+      "employeeId": "",
+      "email": "",
+      "fromDate": "2026-10-10",
+      "toDate": "2026-10-30",
+      "numberOfDays": 21,
+      "leaveType": "",
+      "reason": "",
+      "status": "Pending",
+      "createdOn": "2026-07-17T00:00:00Z",
+      "lastUpdatedOn": "2026-07-17T00:00:00Z"
     }
   ]
 }
