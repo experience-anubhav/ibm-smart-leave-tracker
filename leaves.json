@@ -55,6 +55,20 @@
       "status": "Pending",
       "createdOn": "2026-07-17T00:00:00Z",
       "lastUpdatedOn": "2026-07-17T00:00:00Z"
+    },
+    {
+      "leaveId": "LV-20260717-005",
+      "employeeName": "Anubhav Tiwari",
+      "employeeId": "experience-anubhav",
+      "email": "Anubhav.Tiwari1@ibm.com",
+      "fromDate": "2026-07-18",
+      "toDate": "2026-07-18",
+      "numberOfDays": 1,
+      "leaveType": "",
+      "reason": "",
+      "status": "Pending",
+      "createdOn": "2026-07-17T00:00:00Z",
+      "lastUpdatedOn": "2026-07-17T00:00:00Z"
     }
   ]
 }
