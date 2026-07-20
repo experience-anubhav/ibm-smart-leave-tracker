@@ -293,6 +293,20 @@
       "status": "Pending",
       "createdOn": "2026-07-20T00:00:00Z",
       "lastUpdatedOn": "2026-07-20T00:00:00Z"
+    },
+    {
+      "leaveId": "LV-20260720-022",
+      "employeeName": "Pallavi",
+      "employeeId": "pallavi",
+      "email": "",
+      "fromDate": "2026-07-21",
+      "toDate": "2026-07-21",
+      "numberOfDays": 1,
+      "leaveType": "Casual Leave",
+      "reason": "some urgent work",
+      "status": "Pending",
+      "createdOn": "2026-07-20T00:00:00Z",
+      "lastUpdatedOn": "2026-07-20T00:00:00Z"
     }
   ]
 }
