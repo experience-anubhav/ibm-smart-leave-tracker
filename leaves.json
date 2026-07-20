@@ -307,6 +307,20 @@
       "status": "Pending",
       "createdOn": "2026-07-20T00:00:00Z",
       "lastUpdatedOn": "2026-07-20T00:00:00Z"
+    },
+    {
+      "leaveId": "LV-20260720-023",
+      "employeeName": "Pallavi",
+      "employeeId": "pallavi",
+      "email": "",
+      "fromDate": "2026-07-20",
+      "toDate": "2026-07-20",
+      "numberOfDays": 1,
+      "leaveType": "Sick Leave",
+      "reason": "not well",
+      "status": "Pending",
+      "createdOn": "2026-07-20T00:00:00Z",
+      "lastUpdatedOn": "2026-07-20T00:00:00Z"
     }
   ]
 }
